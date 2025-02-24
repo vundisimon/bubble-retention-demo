@@ -1,5 +1,5 @@
 import { NextApiRequest, NextApiResponse } from 'next'
-import { prisma } from '@/lib/prisma' // Assuming you're using Prisma
+//import { prisma } from '@/lib/prisma' // Assuming you're using Prisma
 
 export default async function handler(
   req: NextApiRequest,
